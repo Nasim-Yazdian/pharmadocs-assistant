@@ -1,0 +1,17 @@
+# Geheimnisse - duerfen NIE ins Image
+.env
+.env.*
+!.env.example
+
+# Gross / wird im Container neu erzeugt
+venv/
+chroma_db/
+
+# Nicht noetig zur Laufzeit
+.git/
+.github/
+tests/
+.pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store
