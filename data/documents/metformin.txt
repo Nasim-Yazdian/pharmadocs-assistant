@@ -1,0 +1,26 @@
+Product: Metformin
+Generic name: METFORMIN ER 500 MG
+Manufacturer: REMEDYREPACK INC.
+Application number: ANDA209313
+Label version: 5
+Effective date: 2026-09-09
+Set ID: 05999192-ebc6-4198-bd1e-f46abbfb4f8a
+Source: openFDA Drug Label API (U.S. FDA)
+
+## Indications (short context)
+1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets are biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )
+
+## Description and Composition
+11 DESCRIPTION Metformin hydrochloride extended-release tablets, USP contain the antihyperglycemic agent metformin, which is a biguanide, in the form of monohydrochloride. The chemical name of metformin hydrochloride is N,N -dimethylimidodicarbonimidic diamide hydrochloride. The structural formula is as shown below: Metformin hydrochloride, USP is a white to off-white crystalline compound with a molecular formula of C 4 H 11 N 5 • HCl and a molecular weight of 165.62. Metformin hydrochloride is freely soluble in water, slightly soluble in ethanol, practically insoluble in acetone and in methylene chloride. The pKa of metformin is 12.4. The pH of a 1% aqueous solution of metformin hydrochloride is 6.35. Metformin hydrochloride extended-release tablets USP, contains 500 mg or 750 mg of metformin hydrochloride, which is equivalent to 389.93 mg, 584.90 mg metformin base, respectively. Metformin hydrochloride extended-release tablets USP, 500 mg tablets contain the inactive ingredients hypromellose, magnesium stearate, and polyvinyl pyrrolidone Metformin hydrochloride extended-release tablets USP, 750 mg tablets contain the inactive ingredients hypromellose, magnesium stearate, and polyvinyl pyrrolidone Meets USP Dissolution Test 10 metformin
+
+## Dosage Forms and Strengths
+3 DOSAGE FORMS AND STRENGTHS Metformin hydrochloride extended-release tablets, USP are available as: • Extended-release tablets: 500 mg white to off-white uncoated, modified capsule shaped tablets debossed with "G7" on one side and plain on other side. • Metformin Hydrochloride Extended-Release Tablets: 500 mg ( 3 )
+
+## How Supplied
+16 HOW SUPPLIED/STORAGE AND HANDLING Metformin Hydrochloride Extended-Release Tablets, USP 500 mg White to off-white uncoated, modified capsule shaped tablets debossed with “G7” on one side and plain on other side. NDC: 70518-4370-00 NDC: 70518-4370-01 NDC: 70518-4370-02 NDC: 70518-4370-03 NDC: 70518-4370-04 PACKAGING: 30 in 1 BLISTER PACK PACKAGING: 100 in 1 BOX PACKAGING: 1 in 1 POUCH PACKAGING: 90 in 1 BOTTLE PLASTIC PACKAGING: 180 in 1 BOTTLE PLASTIC Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature]. Dispense in light-resistant container. Repackaged and Distributed By: Remedy Repack, Inc. 625 Kolter Dr. Suite #4 Indiana, PA 1-724-465-8762
+
+## Package Label
+DRUG: Metformin GENERIC: Metformin ER 500 mg DOSAGE: TABLET, EXTENDED RELEASE ADMINSTRATION: ORAL NDC: 70518-4370-0 NDC: 70518-4370-1 NDC: 70518-4370-2 NDC: 70518-4370-3 NDC: 70518-4370-4 COLOR: white SHAPE: CAPSULE SCORE: No score SIZE: 18 mm IMPRINT: G7 PACKAGING: 30 in 1 BLISTER PACK OUTER PACKAGING: 100 in 1 BOX PACKAGING: 1 in 1 POUCH PACKAGING: 90 in 1 BOTTLE PLASTIC PACKAGING: 180 in 1 BOTTLE PLASTIC ACTIVE INGREDIENT(S): METFORMIN HYDROCHLORIDE 500mg in 1 INACTIVE INGREDIENT(S): HYPROMELLOSE 2208 (100 MPA.S) POVIDONE K30 HYPROMELLOSE 2910 (15 MPA.S) MAGNESIUM STEARATE MM1 MM2 MM3 MM4 Remedy_Label
+
+## Recent Major Changes
+Indications and Usage ( 1 ) 02/2026

@@ -1,0 +1,60 @@
+Product: BASAGLAR KwikPen
+Generic name: INSULIN GLARGINE
+Manufacturer: Eli Lilly and Company
+Application number: BLA205692
+Label version: 35
+Effective date: 2026-06-16
+Set ID: 0ad21db3-2b1c-4ed9-a687-bdd6a74d0aae
+Source: openFDA Drug Label API (U.S. FDA)
+
+## Indications (short context)
+1 INDICATIONS AND USAGE BASAGLAR ® is indicated to improve glycemic control in adults and pediatric patients with type 1 diabetes mellitus and in adults with type 2 diabetes mellitus. BASAGLAR ® is a long-acting human insulin analog indicated to improve glycemic control in adults and pediatric patients with type 1 diabetes mellitus and in adults with type 2 diabetes mellitus. ( 1 ) Limitations of Use : Not recommended for treating diabetic ketoacidosis. ( 1 ) Limitations of Use BASAGLAR is not recommended for the treatment of diabetic ketoacidosis.
+
+## Description and Composition
+11 DESCRIPTION Insulin glargine is a long-acting human insulin analog produced by recombinant DNA technology utilizing a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism. Insulin glargine differs from human insulin in that the amino acid asparagine at position A21 is replaced by glycine and two arginines are added to the C-terminus of the B-chain. Chemically, insulin glargine is 21 A -Gly-30 B -a-L-Arg-30 B b-L-Arg-human insulin and has the empirical formula C 267 H 404 N 72 O 78 S 6 and a molecular weight of 6.063 kDa. Insulin glargine has the following structural formula: BASAGLAR (insulin glargine) injection is a sterile clear and colorless aqueous solution for subcutaneous use. Each mL contains 100 units of insulin glargine (3.6378 mg). The 3 mL BASAGLAR prefilled pen presentations contain the following inactive ingredients per mL: glycerin (17 mg), metacresol (2.7 mg), zinc oxide (content adjusted to provide 30 mcg zinc ion), and Water for Injection, USP. The pH is adjusted by addition of aqueous solutions of hydrochloric acid 10% and/or sodium hydroxide 10%. BASAGLAR has a pH of approximately 4. Structural Formula
+
+## Dosage Forms and Strengths
+3 DOSAGE FORMS AND STRENGTHS Injection: 100 units/mL (U-100) clear and colorless solution available as: 3 mL single-patient-use BASAGLAR KwikPen 3 mL single-patient-use BASAGLAR Tempo Pen Injection: 100 units/mL (U-100) is available as: ( 3 ) 3 mL single-patient-use BASAGLAR KwikPen ® 3 mL single-patient-use BASAGLAR Tempo Pen TM
+
+## How Supplied
+16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied BASAGLAR (insulin glargine) injection is a clear, colorless solution, 100 units/mL (U-100), available as: a Tempo Pen contains a component that allows for data connectivity when used with a compatible transmitter. BASAGLAR Total Volume NDC Number Package Size BASAGLAR single-patient-use KwikPen 3 mL 0002-7715-59 5 pens BASAGLAR single-patient-use Tempo Pen a 3 mL 0002-8214-05 5 pens The BASAGLAR KwikPen and Tempo Pen dial in 1 unit increments. Needles are not included. This device is recommended for use with Becton, Dickinson & Company's insulin pen needles which are sold separately. 16.2 Storage and Handling Dispense in the original sealed carton with the enclosed Instructions for Use. Protect BASAGLAR from heat and light. Do not freeze BASAGLAR. In-use BASAGLAR prefilled pens must be used within 28 days or be discarded, even if they still contain BASAGLAR. Storage conditions are summarized in the following table: Not In-Use (Unopened) Room Temperature (up to 86°F [30°C]) Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]) In-Use (Opened) Room Temperature, (up to 86°F [30°C]) 3 mL single-patient-use BASAGLAR KwikPen 28 days Until expiration date 28 days, Do not refrigerate. 3 mL single-patient-use BASAGAR Tempo Pen 28 days Until expiration date 28 days, Do not refrigerate. 16.1 How Supplied BASAGLAR (insulin glargine) injection is a clear, colorless solution, 100 units/mL (U-100), available as: a Tempo Pen contains a component that allows for data connectivity when used with a compatible transmitter. BASAGLAR Total Volume NDC Number Package Size BASAGLAR single-patient-use KwikPen 3 mL 0002-7715-59 5 pens BASAGLAR single-patient-use Tempo Pen a 3 mL 0002-8214-05 5 pens The BASAGLAR KwikPen and Tempo Pen dial in 1 unit increments. Needles are not included. This device is recommended for use with Becton, Dickinson & Company's insulin pen needles which are sold separately.
+Table (structured):
+- BASAGLAR | Column 2: Total Volume
+- BASAGLAR | Column 3: NDC Number
+- BASAGLAR | Column 4: Package Size
+- BASAGLAR single-patient-use KwikPen | Column 2: 3 mL
+- BASAGLAR single-patient-use KwikPen | Column 3: 0002-7715-59
+- BASAGLAR single-patient-use KwikPen | Column 4: 5 pens
+- BASAGLAR single-patient-use Tempo Pen a | Column 2: 3 mL
+- BASAGLAR single-patient-use Tempo Pen a | Column 3: 0002-8214-05
+- BASAGLAR single-patient-use Tempo Pen a | Column 4: 5 pens
+Table (structured):
+- 3 mL single-patient-use BASAGLAR KwikPen | Not In-Use (Unopened) Room Temperature (up to 86°F [30°C]): 28 days
+- 3 mL single-patient-use BASAGLAR KwikPen | Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]): Until expiration date
+- 3 mL single-patient-use BASAGLAR KwikPen | In-Use (Opened) Room Temperature, (up to 86°F [30°C]): 28 days, Do not refrigerate.
+- 3 mL single-patient-use BASAGAR Tempo Pen | Not In-Use (Unopened) Room Temperature (up to 86°F [30°C]): 28 days
+- 3 mL single-patient-use BASAGAR Tempo Pen | Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]): Until expiration date
+- 3 mL single-patient-use BASAGAR Tempo Pen | In-Use (Opened) Room Temperature, (up to 86°F [30°C]): 28 days, Do not refrigerate.
+Table (structured):
+- BASAGLAR | Column 2: Total Volume
+- BASAGLAR | Column 3: NDC Number
+- BASAGLAR | Column 4: Package Size
+- BASAGLAR single-patient-use KwikPen | Column 2: 3 mL
+- BASAGLAR single-patient-use KwikPen | Column 3: 0002-7715-59
+- BASAGLAR single-patient-use KwikPen | Column 4: 5 pens
+- BASAGLAR single-patient-use Tempo Pen a | Column 2: 3 mL
+- BASAGLAR single-patient-use Tempo Pen a | Column 3: 0002-8214-05
+- BASAGLAR single-patient-use Tempo Pen a | Column 4: 5 pens
+
+## Storage and Handling
+16.2 Storage and Handling Dispense in the original sealed carton with the enclosed Instructions for Use. Protect BASAGLAR from heat and light. Do not freeze BASAGLAR. In-use BASAGLAR prefilled pens must be used within 28 days or be discarded, even if they still contain BASAGLAR. Storage conditions are summarized in the following table: Not In-Use (Unopened) Room Temperature (up to 86°F [30°C]) Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]) In-Use (Opened) Room Temperature, (up to 86°F [30°C]) 3 mL single-patient-use BASAGLAR KwikPen 28 days Until expiration date 28 days, Do not refrigerate. 3 mL single-patient-use BASAGAR Tempo Pen 28 days Until expiration date 28 days, Do not refrigerate.
+Table (structured):
+- 3 mL single-patient-use BASAGLAR KwikPen | Not In-Use (Unopened) Room Temperature (up to 86°F [30°C]): 28 days
+- 3 mL single-patient-use BASAGLAR KwikPen | Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]): Until expiration date
+- 3 mL single-patient-use BASAGLAR KwikPen | In-Use (Opened) Room Temperature, (up to 86°F [30°C]): 28 days, Do not refrigerate.
+- 3 mL single-patient-use BASAGAR Tempo Pen | Not In-Use (Unopened) Room Temperature (up to 86°F [30°C]): 28 days
+- 3 mL single-patient-use BASAGAR Tempo Pen | Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]): Until expiration date
+- 3 mL single-patient-use BASAGAR Tempo Pen | In-Use (Opened) Room Temperature, (up to 86°F [30°C]): 28 days, Do not refrigerate.
+
+## Package Label
+PACKAGE CARTON – BASAGLAR KwikPen 80 UNIT PEN Dispense in this sealed carton. NDC 0002-7715-59 Basaglar ® KwikPen ® (insulin glargine) injection For Single Patient Use Only 100 units per mL (U-100) For subcutaneous use only Can inject from 1 to 80 units in a single injection 5 x 3 mL prefilled pens prefilled insulin delivery device Rx only Read Basaglar ® KwikPen ® Instructions for Use. NEEDLES NOT INCLUDED This device is recommended for use with Becton, Dickinson & Company's insulin pen needles. Lilly PACKAGE CARTON – BASAGLAR KwikPen PACKAGE CARTON – BASAGLAR Tempo Pen 80 UNIT PEN Dispense in this sealed carton. NDC 0002-8214-05 Basaglar ® Tempo Pen™ (insulin glargine) injection For Single Patient Use Only 100 units per mL (U-100) For subcutaneous use only Can inject from 1 to 80 units in a single injection 5 x 3 mL prefilled pens prefilled insulin delivery device Rx only Read Basaglar ® Tempo Pen™ Instructions for Use. NEEDLES NOT INCLUDED This device is recommended for use with Becton, Dickinson & Company's insulin pen needles. Lilly PACKAGE CARTON – BASAGLAR Tempo Pen

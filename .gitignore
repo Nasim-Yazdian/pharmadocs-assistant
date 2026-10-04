@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Geheimnisse - NIEMALS committen
+.env
+.env.*
+!.env.example
+
+# Generierte Daten (aus data/documents reproduzierbar)
+chroma_db/
+
+# System
+.DS_Store

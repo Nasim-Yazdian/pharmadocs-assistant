@@ -1,0 +1,23 @@
+Product: EPINEPHRINE
+Generic name: EPINEPHRINE
+Manufacturer: REMEDYREPACK INC.
+Application number: ANDA213708
+Label version: 3
+Effective date: 2026-09-03
+Set ID: 55befbe4-c819-4367-bbe7-de5841786aac
+Source: openFDA Drug Label API (U.S. FDA)
+
+## Indications (short context)
+1 INDICATIONS AND USAGE Epinephrine is a non-selective alpha and beta adrenergic agonist indicated: To increase mean arterial blood pressure in adult patients with hypotension associated with septic shock. ( 1.1 ) For emergency treatment of allergic reactions (Type 1), including anaphylaxis. ( 1.2 ) For induction and maintenance of mydriasis during intraocular surgery. ( 1.3 ) 1.1 Hypotension associated with Septic Shock Epinephrine Injection USP, 1 mg/mL is indicated to increase mean arterial blood pressure in adult patients with hypotension associated with septic shock. 1.2 Anaphylaxis Emergency treatment of allergic reactions (Type I), including anaphylaxis, which may result from allergic reactions to insect stings, biting insects, foods, drugs, sera, diagnostic testing substances and other allergens, as well as idiopathic anaphylaxis or exercise-induced anaphylaxis. The signs and symptoms associated with anaphylaxis include flushing, apprehension, syncope, tachycardia, thready or unobtainable pulse associated with hypotension, convulsions, vomiting, diarrhea and abdominal cramps, involuntary voiding, airway swelling, laryngospasm, bronchospasm, pruritus, urticaria or angioedema, swelling of the eyelids, lips, and tongue. 1.3 Induction and Maintenance of Mydriasis during Intraocular Surgery Induction and maintenance of mydriasis during intraocular surgery.
+
+## Description and Composition
+11 DESCRIPTION Epinephrine Injection, USP is a clear, colorless, sterile solution containing 1 mg/mL epinephrine, packaged as a 1 mL solution in a single-dose vial. Each mL of Epinephrine Injection, USP solution contains 1 mg epinephrine, sodium chloride 8.6 mg (for isotonicity), sodium metabisulfite 0.25 mg (as preservative), citric acid 0.5 mg and hydrochloric acid for pH adjustment and water for injection, USP, qs. The pH range is 3.0-3.6. Solution must be diluted prior to intravenous or ocular use. Epinephrine is a sympathomimetic catecholamine. The chemical name of epinephrine is: 1,2- Benzenediol, 4-[(1R)-1-hydroxy-2-(methylamino)ethyl]-, or (-)-3,4-Dihydroxy-α-[2-(methylamino)ethyl]benzyl alcohol. The chemical structure of epinephrine is: The molecular weight of epinephrine is 183.2. Epinephrine solution deteriorates rapidly on exposure to air or light, turning pink from oxidation to adrenochrome and brown from the formation of melanin. Figure
+
+## Dosage Forms and Strengths
+3 DOSAGE FORMS AND STRENGTHS Injection solution: 1 mg/mL epinephrine as a sterile solution in a 1 mL single-dose glass vial, marked Epinephrine Injection USP, 1 mg/mL. Injection solution: 1 mg/mL single dose vial. ( 3 )
+
+## How Supplied
+16 HOW SUPPLIED/STORAGE AND HANDLING Epinephrine Injection, USP is supplied as follows: 1 mg/mL NDC: 70518-4274-00 NDC: 70518-4274-01 PACKAGING: 25 in 1 TRAY PACKAGING: 1 mL in 1 VIAL, SINGLE DOSE Epinephrine is light sensitive. Protect from light until ready to use. Do not refrigerate. Protect from freezing. Discard unused portion. Store at room temperature, between 20° to 25°C (68° to 77°F). (See USP Controlled Room Temperature.) Protect from alkalis and oxidizing agents. Inspect visually for particulate matter and discoloration prior to administration. Do not use the solution if it is colored or cloudy, or if it contains particulate matter. Repackaged and Distributed By: Remedy Repack, Inc. 625 Kolter Dr. Suite #4 Indiana, PA 1-724-465-8762
+
+## Package Label
+DRUG: EPINEPHRINE GENERIC: EPINEPHRINE DOSAGE: INJECTION, SOLUTION, CONCENTRATE ADMINSTRATION: INTRAVENOUS NDC: 70518-4274-0 NDC: 70518-4274-1 PACKAGING: 1 mL in 1 VIAL, SINGLE-DOSE OUTER PACKAGING: 25 in 1 TRAY ACTIVE INGREDIENT(S): EPINEPHRINE 1mg in 1mL INACTIVE INGREDIENT(S): SODIUM CHLORIDE HYDROCHLORIC ACID WATER SODIUM METABISULFITE ANHYDROUS CITRIC ACID MM1 Remedy_Label

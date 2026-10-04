@@ -1,0 +1,41 @@
+Product: Levothyroxine sodium
+Generic name: LEVOTHYROXINE SODIUM
+Manufacturer: REMEDYREPACK INC.
+Application number: ANDA212399
+Label version: 3
+Effective date: 2026-09-10
+Set ID: 4c903249-69e9-4168-a9d1-22e6c2c1eb22
+Source: openFDA Drug Label API (U.S. FDA)
+
+## Indications (short context)
+1 INDICATIONS AND USAGE Hypothyroidism Levothyroxine sodium tablets are indicated in adult and pediatric patients, including neonates, as a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism. Pituitary Thyrotropin (Thyroid‑Stimulating Hormone, TSH) Suppression Levothyroxine sodium tablets are indicated in adult and pediatric patients, including neonates, as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer. Limitations of Use Levothyroxine sodium tablets are not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with levothyroxine sodium may induce hyperthyroidism [see Warnings and Precautions (5.1) ]. Levothyroxine sodium tablets are not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis. Levothyroxine sodium tablets are a L-thyroxine (T4) indicated in adult and pediatric patients, including neonates, for: Hypothyroidism: As replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism. (1) Pituitary Thyrotropin (Thyroid‑Stimulating Hormone, TSH) Suppression: As an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer. (1) Limitations of Use: Not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients Not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis
+
+## Description and Composition
+11 DESCRIPTION Levothyroxine sodium tablets, USP is L-thyroxine (T4) and contains synthetic crystalline L-3,3’,5,5’-tetraiodothyronine sodium salt. Synthetic T4 is chemically identical to that produced in the human thyroid gland. Levothyroxine (T4) sodium has an empirical formula of C 15 H 10 I 4 N NaO 4 • H 2 O, molecular weight of 798.86 (anhydrous), and structural formula as shown: Levothyroxine sodium tablets, USP for oral administration are supplied in the following strengths: 25 mcg, 50 mcg, 75 mcg, 88 mcg, 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg, 175 mcg, 200 mcg, and 300 mcg. Each levothyroxine sodium tablet contains the inactive ingredients microcrystalline sodium, light magnesium oxide, sodium starch glycolate and sodium stearyl fumarate. Levothyroxine sodium tablets, USP contain no ingredients made from a gluten-containing grain (wheat, barley, or rye). Table 9 provides a listing of the color additives by tablet strength: Table 9. Levothyroxine Sodium Tablet Color Additives Strength (mcg) Color additive(s) 25 FD&C Yellow No. 6 Aluminum Lake 50 None 75 FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake 88 FD&C Blue No. 2 Aluminum Lake, FD&C Yellow No. 5 Aluminum Lake 100 FD&C Yellow No. 5 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake 112 FD&C Red No. 40 Aluminum Lake, Carmine 125 FD&C Yellow No. 6 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake 137 FD&C Blue No. 1 Aluminum Lake 150 FD&C Blue No. 2 Aluminum Lake 175 FD&C Blue No. 1 Aluminum Lake, Carmine 200 FD&C Red No. 40 Aluminum Lake 300 D&C Yellow No. 10 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake Levothyroxine sodium tablets, USP meets USP Dissolution Test 7. description
+Table (structured):
+- 25 | Color additive(s): FD&C Yellow No. 6 Aluminum Lake
+- 50 | Color additive(s): None
+- 75 | Color additive(s): FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake
+- 88 | Color additive(s): FD&C Blue No. 2 Aluminum Lake, FD&C Yellow No. 5 Aluminum Lake
+- 100 | Color additive(s): FD&C Yellow No. 5 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake
+- 112 | Color additive(s): FD&C Red No. 40 Aluminum Lake, Carmine
+- 125 | Color additive(s): FD&C Yellow No. 6 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake
+- 137 | Color additive(s): FD&C Blue No. 1 Aluminum Lake
+- 150 | Color additive(s): FD&C Blue No. 2 Aluminum Lake
+- 175 | Color additive(s): FD&C Blue No. 1 Aluminum Lake, Carmine
+- 200 | Color additive(s): FD&C Red No. 40 Aluminum Lake
+- 300 | Color additive(s): D&C Yellow No. 10 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake
+
+## Dosage Forms and Strengths
+3 DOSAGE FORMS AND STRENGTHS All tablets having functional scoring Levothyroxine sodium tablets USP are available as follows (Table 4): Table 4: Levothyroxine Sodium Tablet Strengths and Identifying Features Tablet Strength Tablet Description 25 mcg Round shaped, Orange colored, uncoated tablets, break line on both side and debossed with "P" and "1" on one side and plain on other side. Tablets (Functional Scoring): 25 mcg (3)
+
+## How Supplied
+16 HOW SUPPLIED/STORAGE AND HANDLING All tablets have functional scoring. Levothyroxine sodium tablets, USP are supplied as follows 25 mcg (0.025 mg) Round shaped, Orange colored, uncoated tablets, break line on both side and debossed with "P" and "1" on one side and plain on other side. NDC: 70518-4400-00 PACKAGING: 90 in 1 BOTTLE Storage Conditions Store levothyroxine sodium tablets at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature). Levothyroxine sodium tablets should be protected from light and moisture. Repackaged and Distributed By: Remedy Repack, Inc. 625 Kolter Dr. Suite #4 Indiana, PA 1-724-465-8762
+
+## Package Label
+DRUG: Levothyroxine sodium GENERIC: Levothyroxine Sodium DOSAGE: TABLET ADMINSTRATION: ORAL NDC: 70518-4400-0 COLOR: orange SHAPE: ROUND SCORE: Two even pieces SIZE: 7 mm IMPRINT: P;1 PACKAGING: 90 in 1 BOTTLE ACTIVE INGREDIENT(S): LEVOTHYROXINE SODIUM 25ug in 1 INACTIVE INGREDIENT(S): MICROCRYSTALLINE CELLULOSE MAGNESIUM OXIDE SODIUM STARCH GLYCOLATE TYPE A POTATO SODIUM STEARYL FUMARATE FD&C YELLOW NO. 6 Remedy_Label
+
+## Recent Major Changes
+Dosage and Administration, Important Considerations for Dosing ( 2.2 ) 2/2024 Dosage and Administration, Monitoring TSH and/or Thyroxine (T4) Levels ( 2.4 ) 2/2024
+Table (structured):
+- Dosage and Administration, Monitoring TSH and/or Thyroxine (T4) Levels ( 2.4 ) | 2/2024: 2/2024
